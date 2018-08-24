@@ -1,0 +1,6 @@
+simple
+registry
+compositor
+surface
+rendershared
+xdg-shell-protocol.*
